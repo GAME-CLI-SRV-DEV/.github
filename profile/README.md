@@ -1,3 +1,11 @@
+## Convention Of International Trade Of Endangered Species Wild Fauna And Flora Sucks!
+Let's Boycott CITES agreement! Let's turn this into big revolution!
+https://www.change.org/p/save-fu-bao-end-forced-animal-handling-now?source_location=petition_update_page
+
+FuBao: You Guys Should Join This Petition For My Life In China! :)
+![image](https://github.com/GAME-CLI-SRV-DEV/.github/assets/167604853/7c19170b-f6f8-4635-93aa-6e7bfcbaca4f)
+
+
 ## Hi there 👋
 i am working on Radioactive and NBM.
 the most project what i am working on is Radioactive.
