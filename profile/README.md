@@ -1,6 +1,6 @@
 # ViaProxyConnect 2 is out
 
-address_port_version.viaproxy.2002-904c-0812-0000-ffff-144.76.8.18.sslip.io:53587
+address_port_version.viaproxy.2002-904e-0812-ffff-0064-ff9b-144.76.8.18.sslip.io:53587
 
 ## Hi there 👋
 i am working on Radioactive and NBM.
