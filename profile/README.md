@@ -2,6 +2,9 @@
 ## ViaProxyConnect
 ViaProxyConnect Should Be Used as 
 `address_port_version.viaproxy.anarchyconnect.duckdns.org:53587`
+example:
+i am going to lenni0451 and RaphiMC's ViaProxyConnect server, so i use:
+`viaproxy.raphimc.net_25565_1.20.4.viaproxy.anarchyconnect.duckdns.org:53587`
 ## VIAaaSConnect 
 Should Be Used as 
 `address._pport._vversion._uusername.viaversionasaservice.2002-904e-0812-ffff-0064-ff9b-144.76.8.18.sslip.io:25377`
