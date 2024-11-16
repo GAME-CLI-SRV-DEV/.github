@@ -5,7 +5,7 @@ ViaProxyConnect Should Be Used as
 example:
 i am going to lenni0451 and RaphiMC's ViaProxyConnect server, so i use:
 `viaproxy.raphimc.net_25565_1.20.4.viaproxy.anarchyconnect.duckdns.org:56114`
-## VIAaaSConnect(DEFUNCT)
+## VIAaaSConnect(Likely DEFUNCT)
 Should Be Used as 
 `address._pport._vversion._uusername.viaversionasaservice.2002-904e-0812-ffff-0064-ff9b-144.76.8.18.sslip.io:25377`
 ## Hi there 👋
