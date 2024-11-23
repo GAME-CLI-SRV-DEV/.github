@@ -1,4 +1,4 @@
-# AnarchyConnect BETA is out
+# AnarchyConnect is shutting down and it will be rebranded in future
 ## ViaProxyConnect
 ViaProxyConnect Should Be Used as 
 `address_port_version.viaproxy.anarchyconnect.duckdns.org:56114`
