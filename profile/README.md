@@ -1,3 +1,6 @@
+# We Are Officially Approximaster Studios!
+We Are Renaming This Organization Approximaster Studios!
+
 # AnarchyConnect is shutting down and it will be rebranded in future
 ## ViaProxyConnect
 ViaProxyConnect Should Be Used as 
