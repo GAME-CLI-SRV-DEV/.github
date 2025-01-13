@@ -1,3 +1,5 @@
+# Please Oppose Paper Hardfork. #saveapproximaster
+
 # We Are Officially Approximaster Studios!
 We Are Renaming This Organization Approximaster Studios!
 Currently Approximaster Studios 2004 is in the process of acquring
