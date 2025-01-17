@@ -1,4 +1,4 @@
-# Notice: We Are Going on Strike in 2025-1-18.
+# Notice: We Are Going on Strike.
 We Are Going on Strike Opposing PaperMC's Hardfork, this means No Updates on Our Paper Plugin Repository Will Not Occur Until Paper Reverts this Action.\
 Please Oppose Paper Hardfork! 
 # We Are Officially Approximaster Studios!
