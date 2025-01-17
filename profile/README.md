@@ -1,6 +1,6 @@
 # Notice: We Are Going on Strike.
 We Are Going on Strike Opposing PaperMC's Hardfork, this means No Updates on Our Plugin Repository Will Not Occur Until Paper Reverts the Hardfork Action.\
-Please Oppose Paper Hardfork! change.org
+Please Oppose Paper Hardfork! 
 # We Are Officially Approximaster Studios!
 We Are Renaming This Organization Approximaster Studios!
 Currently Approximaster Studios 2004 is in the process of acquring
