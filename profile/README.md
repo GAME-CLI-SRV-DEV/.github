@@ -1,11 +1,7 @@
-# Notice: We Are Going on Strike.
-We Are Going on Strike Opposing PaperMC's Hardfork, this means No Updates on Our Paper Plugin Repository Will Not Occur Until Paper Reverts this Action.\
+# Oppose Paper Hardfork
 Please Oppose Paper Hardfork! 
 # We Are Officially Approximaster Studios!
-We Are Renaming This Organization Approximaster Studios!
-Currently Approximaster Studios 2004 is in the process of acquring
-![1000024826](https://github.com/user-attachments/assets/1f78f3ae-b94f-4e60-9771-7db10ed8ba50)
-and PaperMC+Spigot.
+We Are Renaming This Organization Approximaster Studios! We Support Eaglercraft!
 Not Affilated With ENIStudio, TheFlash, Lotte World Adventure, UPI, etc. These Franchise Characthers Are In Logo Because i like those characthers.
 
 로고파일 다운로드: https://github.com/user-attachments/assets/155ffdb2-aa32-4d5e-b434-65c86fafa00a
