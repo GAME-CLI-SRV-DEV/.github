@@ -1,5 +1,5 @@
-# Oppose Paper Hardfork
-Please Oppose Paper Hardfork! 
+# All Hopes have been lost. 
+We have no choice to embrace. on 2 hours, the plugin dev will cease. 
 # We Are Officially Approximaster Studios!
 We Are Renaming This Organization Approximaster Studios! We Support Eaglercraft!
 Not Affilated With ENIStudio, TheFlash, Lotte World Adventure, UPI, etc. These Franchise Characthers Are In Logo Because i like those characthers.
