@@ -9,6 +9,9 @@
 # 주력 서버 소프트웨어
 NogyangSpigot - 하드포크 이전 Paper의 포크로 스피곳과 페이퍼 플러그인 동시지원하도록 제작되었으며 Foundation을 포함하고 있음.
 
+# 개발 단계
+ViaVersionProtocolSupport - Spigot에서 쓰던 ProtocolSupport를 ViaVersion으로 개량해 프록시와 서버에서 사용할 수 있게 만든 시스템. 
+
 # We Are Officially Approximaster Studios!
 We Renamed This Organization Approximaster Studios! We Support Eaglercraft!
 Not Affilated With ENIStudio, TheFlash, Lotte World Adventure, UPI, etc. These Franchise Characthers Are In Logo Because i like those characthers.
