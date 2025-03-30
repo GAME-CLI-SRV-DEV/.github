@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/ac12bcbe-9d59-423f-9207-c8271a633470)
 
-우리는 2022년 외국에서 2B2T AE 서버로 시작한 스튜디오입니다!\
+우리는 2022년 2B2T AE 서버로 시작한 스튜디오입니다!\
 서버 가입하기(20인용): approximasterstudios2004.ddnsgeek.com:43065\
 구 서버 가입하기(10인용 + ViaProxy기능): approximasteranarchy2004.falixsrv.me:40178
 
