@@ -4,7 +4,7 @@
 
 우리는 2022년 2B2T AE 서버로 시작한 스튜디오입니다!
 # 주력 서비스
-ViaProxy, VIAaaS 서버 - address.<address>.port.<port>.version.<version>.f2.viaproxy.approximasterstudios2004.ddnsgeek.com:25568(Coming Soon)\
+ViaProxy, VIAaaS 서버 - address.srvaddress.port.srvport.version.srvversion.f2.viaproxy.approximasterstudios2004.ddnsgeek.com:25568(Coming Soon)\
 플러그인 무정부 서버\
 서버 가입하기(20인용): approximasterstudios2004.ddnsgeek.com:43065
 
