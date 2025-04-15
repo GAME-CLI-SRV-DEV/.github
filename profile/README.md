@@ -1,6 +1,7 @@
-# 아프록시마스터 스튜디오는 최고의 플러그인을 만듭니다.
+# 아프록시마스터 스튜디오 2004
 
-![image](https://github.com/user-attachments/assets/ac12bcbe-9d59-423f-9207-c8271a633470)
+![image](https://github.com/user-attachments/assets/79942d4b-b932-47af-85b1-39510244004f)
+
 
 우리는 2022년 2B2T AE 서버로 시작한 스튜디오입니다!
 # 주력 서비스
