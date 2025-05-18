@@ -4,6 +4,10 @@
 
 
 우리는 2022년 2B2T AE 서버로 시작한 스튜디오입니다!
+
+# Bedrock으로 연결이 안되나요?
+Floodgate 키를 다운받아 Geyser-Standalone에 복사해서 사용하시면, 문제 없이 베드락 접속이 가능합니다. 
+
 # 주력 서비스
 ViaProxy, VIAaaS 서버 - address.srvaddress.port.srvport.version.srvversion.f2.viaproxy.approximasterstudios2004.ddnsgeek.com:42553/2444\
 플러그인 무정부 서버\
