@@ -9,7 +9,7 @@ Floodgate 키를 다운받아 Geyser-Standalone에 복사해서 사용하시면,
 키 다운 받기: https://github.com/GAME-CLI-SRV-DEV/.github/raw/refs/heads/main/key.pem
 
 # 주력 서비스
-ViaProxy 서버 - ~address.srvaddress.port.srvport.version.srvversion.f2.viaproxy.approximasterstudios2004.ddnsgeek.com:25568/19135
+ViaProxy 서버 - address.srvaddress.port.srvport.version.srvversion.f2.viaproxy.approximasterstudios2004.ddnsgeek.com:25568/19135
 플러그인 무정부 서버\
 서버 가입하기(20인용): ~approximasterstudios2004.ddnsgeek.com:25565/19132
 
