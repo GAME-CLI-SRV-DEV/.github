@@ -2,17 +2,8 @@
 
 ![image](https://github.com/user-attachments/assets/79942d4b-b932-47af-85b1-39510244004f)
 
-
-# Bedrock으로 연결이 안되나요?
-Floodgate 키를 다운받아 Geyser-Standalone에 복사해서 사용하시면, 문제 없이 베드락 접속이 가능합니다.\
-키 다운 받기: https://github.com/GAME-CLI-SRV-DEV/.github/raw/refs/heads/main/key.pem
-
 # 주력 서비스
-ViaProxy 서버 - address.srvaddress.port.srvport.version.srvversion.f2.viaproxy.approximasterstudios2004.ddnsgeek.com:25568/19135\
-플러그인 무정부 서버 - approximasterstudios2004.ddnsgeek.com:25565/19132
-
-# 주력 게임 시리즈
-아프록시마스터 시리즈 - 플래시게임 최강자 곰씨게임 시리즈 세계관과 아케이드 최강자 키니위니 시리즈 세계관이 Outfit8TSB 유니버스와 통합하여 새로운 시리즈, 아프록시마스터 시리즈가 되었습니다. 서비스에 최선을 다하겠습니다.
+마인크래프트에 기반한 포털서비스(Online 2004)와 게임 런처(NetGames)를 주력 서비스로 삼고 있습니다.
 # 주력 서버 소프트웨어
 NogyangSpigot - 하드포크 이전 Paper의 포크로 스피곳과 페이퍼 플러그인 동시지원하도록 제작되었으며 Foundation을 포함하고 있음.
 
