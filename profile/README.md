@@ -1,6 +1,6 @@
 # 아프록시마스터 스튜디오 2004
 
-![image](https://github.com/user-attachments/assets/79942d4b-b932-47af-85b1-39510244004f)
+![image](https://github.com/user-attachments/assets/15de152f-1514-4553-91df-6f21f87d4308)
 
 # 주력 서비스
 마인크래프트에 기반한 포털서비스(Online 2004)와 게임 런처(NetGames)를 주력 서비스로 삼고 있습니다.
