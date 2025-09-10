@@ -1,7 +1,11 @@
 # 아프록시마스터 스튜디오 2004
 
+<img width="624" height="53" alt="image" src="https://github.com/user-attachments/assets/a9481664-07e5-4c98-a51e-981ece47ce25" />
+
+미사용 로고
 <img width="624" height="53" alt="image" src="https://github.com/user-attachments/assets/028b363f-170a-40ef-bbbb-e1a2555b797d" />
 
+축소형
 ![image](https://github.com/user-attachments/assets/15de152f-1514-4553-91df-6f21f87d4308)
 
 # 주력 서비스
