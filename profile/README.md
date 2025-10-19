@@ -9,7 +9,7 @@ Computer 생략
 ![image](https://github.com/user-attachments/assets/15de152f-1514-4553-91df-6f21f87d4308)
 
 # 주력 서비스
-마인크래프트에 기반한 포털서비스(Online 2004)와 게임 런처(NetGames)를 주력 서비스로 삼고 있습니다.
+인터넷 서비스와 게임을 주력 서비스로 삼고 있습니다.
 # 주력 서버 소프트웨어
 NogyangSpigot - 하드포크 이전 Paper의 포크로 스피곳과 페이퍼 플러그인 동시지원하도록 제작되었으며 Foundation을 포함하고 있음.
 
