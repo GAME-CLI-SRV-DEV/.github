@@ -1,17 +1,22 @@
-# 아프록시마스터 스튜디오 2004
+# Approximaster Studios 2004
+
+> [!CAUTION]
+> 2026년 Minecraft 버전 개편안에 대한 반대로 2026년 1월 1일 서버 활동을 영구 중단합니다.
+> 기존 플러그인은 더 이상 업데이트하지 않을 예정이며
+> 나머지 플러그인들 또한 Mojang의 결정이 철회/백지화될 때까지 개발이 중단됩니다. 자세한 내용은 공지를 확인바랍니다.
+
 
 <img width="624" height="53" alt="image" src="https://github.com/user-attachments/assets/a9481664-07e5-4c98-a51e-981ece47ce25" />
 
-Computer 생략
+
 <img width="624" height="53" alt="image" src="https://github.com/user-attachments/assets/028b363f-170a-40ef-bbbb-e1a2555b797d" />
 
-축소형
 ![image](https://github.com/user-attachments/assets/15de152f-1514-4553-91df-6f21f87d4308)
 
 # 주력 서비스
 인터넷 서비스와 게임을 주력 서비스로 삼고 있습니다.
 # 주력 서버 소프트웨어
-NogyangSpigot - 하드포크 이전 Paper의 포크로 스피곳과 페이퍼 플러그인 동시지원하도록 제작되었으며 Foundation을 포함하고 있음.
+~~NogyangSpigot - 하드포크 이전 Paper의 포크로 스피곳과 페이퍼 플러그인 동시지원하도록 제작되었으며 Foundation을 포함하고 있음.(2025년 버전 시스템 개편안으로 인해 1.21.11 이후 개발 영구 중단 예정)~~
 
 # 개발 단계
 ViaVersionProtocolSupport - Spigot에서 쓰던 ProtocolSupport를 ViaVersion으로 개량해 프록시와 서버에서 사용할 수 있게 만든 시스템.\
