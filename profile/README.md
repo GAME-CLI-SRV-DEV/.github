@@ -1,10 +1,14 @@
 # Approximaster Studios 2004
+<img width="1918" height="141" alt="image" src="https://github.com/user-attachments/assets/a8c38168-bb58-4fe1-96ab-85de2142cf1c" />
+<img width="624" height="53" alt="image" src="https://github.com/user-attachments/assets/a9481664-07e5-4c98-a51e-981ece47ce25" />
+알록달록하게, 컬러풀 브랜드로 다시한번 나아갑니다. 
 
 > [!CAUTION]
-> 2026년 Minecraft 버전 개편안에 대한 반대로 2026년 1월 1일 서버 활동을 영구 중단합니다.
+> 2026년 Minecraft 버전 개편안에 대한 반대로 2026년 1월 1일 Minecraft 관련 활동을 영구 중단합니다.
 > 기존 플러그인은 더 이상 업데이트하지 않을 예정이며
 > 나머지 플러그인들 또한 Mojang의 결정이 철회/백지화될 때까지 개발이 중단됩니다. 자세한 내용은 공지를 확인바랍니다.
 
+역대 로고:
 
 <img width="624" height="53" alt="image" src="https://github.com/user-attachments/assets/a9481664-07e5-4c98-a51e-981ece47ce25" />
 
@@ -12,6 +16,10 @@
 <img width="624" height="53" alt="image" src="https://github.com/user-attachments/assets/028b363f-170a-40ef-bbbb-e1a2555b797d" />
 
 ![image](https://github.com/user-attachments/assets/15de152f-1514-4553-91df-6f21f87d4308)
+
+![image](https://github.com/user-attachments/assets/79942d4b-b932-47af-85b1-39510244004f)
+
+![image](https://github.com/user-attachments/assets/ac12bcbe-9d59-423f-9207-c8271a633470)
 
 # 주력 서비스
 인터넷 서비스와 게임을 주력 서비스로 삼고 있습니다.
@@ -26,6 +34,4 @@ UniverseAPX-Hub - 녹양스피곳-페이퍼-스피곳 지원 게임 허브 개�
 
 # We Are Officially Approximaster Studios!
 We Renamed This Organization Approximaster Studios! We Support Eaglercraft!
-Not Affilated With ENIStudio, TheFlash, Lotte World Adventure, UPI, etc. These Franchise Characthers Are In Logo Because i like those characthers.
-
-로고파일 다운로드: https://github.com/user-attachments/assets/155ffdb2-aa32-4d5e-b434-65c86fafa00a
+비공식 로고파일 다운로드: https://github.com/user-attachments/assets/155ffdb2-aa32-4d5e-b434-65c86fafa00a
