@@ -1,6 +1,16 @@
 # Approximaster Studios 2004
+<img width="1918" height="141" alt="image" src="https://github.com/user-attachments/assets/8252ada6-81e7-44ce-8834-fc4cc828d56f" />
+
+(컬러풀 BI)
+
 <img width="1918" height="141" alt="image" src="https://github.com/user-attachments/assets/a8c38168-bb58-4fe1-96ab-85de2142cf1c" />
+
+(컬러풀 공식 BI 2)
+
 <img width="624" height="53" alt="image" src="https://github.com/user-attachments/assets/a9481664-07e5-4c98-a51e-981ece47ce25" />
+
+(CI)
+
 알록달록하게, 컬러풀 브랜드로 다시한번 나아갑니다. 
 
 > [!CAUTION]
