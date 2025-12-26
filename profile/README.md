@@ -7,7 +7,7 @@
 
 (컬러풀 공식 BI 2)
 
-<img width="624" height="53" alt="image" src="https://github.com/user-attachments/assets/a9481664-07e5-4c98-a51e-981ece47ce25" />
+<img width="624" height="53" alt="image" src="https://github.com/user-attachments/assets/60f4441c-0d86-4a44-8eb9-8243f360a0ae" />
 
 (CI)
 
@@ -18,6 +18,8 @@
 > 기존 플러그인들은 유지될 예정이나, 개발 예정이었던 플러그인들은 임시 백지화됩니다. 자세한 내용은 공지를 확인바랍니다.
 
 역대 로고:
+
+<img width="624" height="53" alt="image" src="https://github.com/user-attachments/assets/60f4441c-0d86-4a44-8eb9-8243f360a0ae" />
 
 <img width="624" height="53" alt="image" src="https://github.com/user-attachments/assets/a9481664-07e5-4c98-a51e-981ece47ce25" />
 
