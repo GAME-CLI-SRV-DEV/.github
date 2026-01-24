@@ -38,6 +38,11 @@
 
 ![image](https://github.com/user-attachments/assets/ac12bcbe-9d59-423f-9207-c8271a633470)
 
+<img width="223" height="223" alt="167868647" src="https://github.com/user-attachments/assets/1f4c9d43-338a-4bb5-8664-d99caf444c40" />
+<img width="121" height="116" alt="image" src="https://github.com/user-attachments/assets/816a19e7-a3a6-45aa-8302-4176ac3b270b" />
+
+(통합 이전 CI)
+
 # 주력 서비스
 인터넷 서비스와 게임을 주력 서비스로 삼고 있습니다.
 # 주력 서버 소프트웨어
