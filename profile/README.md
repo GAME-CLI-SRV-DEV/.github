@@ -12,10 +12,12 @@
 (CI)
 
 <img width="601" height="337" alt="image" src="https://github.com/user-attachments/assets/9c8f3f9c-788c-452e-b73e-e0fffb606221" />
+
 (국제서버민주동맹연합 준비위원회 소속 세로형 CI)
+
 <img width="601" height="337" alt="image" src="https://github.com/user-attachments/assets/8447b900-90a5-409f-8722-9263b7c2dcd0" />
 
-(서버민주동맹연합 소속 세로형 CI)
+(APX국제서버민주동맹연합 소속 세로형 CI)
 
 알록달록하게, 컬러풀 브랜드로 다시한번 나아갑니다. 
 
