@@ -8,6 +8,7 @@
 (컬러풀 공식 BI 2)
 
 <img width="624" height="53" alt="image" src="https://github.com/user-attachments/assets/60f4441c-0d86-4a44-8eb9-8243f360a0ae" />
+<img width="624" height="53" alt="image" src="https://github.com/user-attachments/assets/4c83d5be-5855-4f7c-87fb-a0d6fc05183d" />
 
 (CI)
 
